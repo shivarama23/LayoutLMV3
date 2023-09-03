@@ -1,0 +1,5 @@
+label-studio==1.6.0
+pytesseract==0.3.10
+jupyterlab
+shapely
+scikit-learn
